@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# Hello
+# Hello 👋
 **My name is Nicolas Vaillant**
 
 
