@@ -1,5 +1,20 @@
 # Hello 👋
 **My name is Nicolas Vaillant**
+- 💻 I'm a a non-professional developer
+- ✒️ Also a beginner designer
+- ⚙️ Not the best BACKEND or FRONTEND dev 
+
+but
+
+- ❤️ I love what I'm working on !
+
+> I'm starting freelance work 
+
+Please contact me for further informations : [contact](https://www.nicolasvaillant.net/mailto:contact@nicolasvaillant.net)
+
+---
+
+Let's see my personal website [nicolasvaillant.net](https://www.nicolasvaillant.net)
 
 
 
