@@ -10,7 +10,7 @@ but
 
 > I'm starting freelance work 
 
-Please contact me for further informations : [contact](https://www.nicolasvaillant.net/mailto:contact@nicolasvaillant.net)
+Please contact me for further informations : [contact](contact@nicolasvaillant.net)
 
 ---
 
