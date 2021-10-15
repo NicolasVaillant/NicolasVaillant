@@ -16,7 +16,7 @@ Please contact me for further informations : [contact](contact@nicolasvaillant.n
 
 Let's see my personal website [nicolasvaillant.net](https://www.nicolasvaillant.net)
 
-
+[Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub] Source Han Sans)
 
 <!--
 **NicolasVaillant/NicolasVaillant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
