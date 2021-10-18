@@ -1,4 +1,5 @@
 # Hello 👋
+
 **My name is Nicolas Vaillant**
 - 💻 I'm a a non-professional developer
 - ✒️ Also a beginner designer
@@ -12,15 +13,17 @@ but
 
 **✔️ I'm starting freelance work**
 
-Please contact me for further informations : contact@nicolasvaillant.net
+*Please contact me for further informations : contact@nicolasvaillant.net*
 
 ---
 
-Let's see my personal website [nicolasvaillant.net](https://www.nicolasvaillant.net)
+🌍 Let's see my personal website : [nicolasvaillant.net](https://www.nicolasvaillant.net)
+
+*Still working on it, I will post news about my projects and hobbies*
 
 ---
 
-Discover a good playlist to work : [Ouvrir Spotify](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2FusBW)
+🎵 Discover a one of my preferred music compositor on [Spotify](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2FusBW)
 
 
 <!--
