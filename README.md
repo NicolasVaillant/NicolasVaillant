@@ -18,6 +18,10 @@ Please contact me for further informations : contact@nicolasvaillant.net
 
 Let's see my personal website [nicolasvaillant.net](https://www.nicolasvaillant.net)
 
+---
+
+Discover a good playlist to work : [Ouvrir Spotify](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2FusBW)
+
 
 <!--
 **NicolasVaillant/NicolasVaillant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
