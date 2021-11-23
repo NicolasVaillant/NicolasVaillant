@@ -1,3 +1,5 @@
+![](https://nicolasvaillant.net/in/ressources/img/thumbnail.png)
+
 # Hello 👋
 
 **My name is Nicolas Vaillant**
