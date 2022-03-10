@@ -3,7 +3,7 @@
 # Hello 👋
 
 **My name is Nicolas Vaillant**
-- 💻 I'm a a non-professional developer
+- 💻 I'm a non-professional developer
 - ✒️ Also a beginner designer
 - ⚙️ Not the best BACKEND or FRONTEND dev 
 
