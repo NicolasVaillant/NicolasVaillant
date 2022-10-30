@@ -1,4 +1,4 @@
-![](https://nicolasvaillant.net/in/ressources/img/thumbnail.png)
+![](https://nicolasvaillant.net/resources/store/thumbnail.png)
 
 # Hello 👋
 
