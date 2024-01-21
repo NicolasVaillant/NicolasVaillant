@@ -4,7 +4,7 @@
 
 **My name is Nicolas Vaillant**
 
-Engeneering apprentice • Embedded electronics systems
+Electronic engineer - Defense • Embedded electronics systems
 
 <br>
 
